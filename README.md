@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Code of Conduct
+
+Please review our [Code of Conduct](CODE_OF_CONDUCT.md) to understand the expected behavior and guidelines for participating in this project.
+
 ## Available Scripts
 
 In the project directory, you can run:
